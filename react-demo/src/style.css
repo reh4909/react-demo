@@ -1,7 +1,7 @@
 nav {
   height: 20vh;
   width: 100%;
-  background-color: rgb(252, 201, 177);
+  background-color: pink;
   color: #000;
 }
 .navitems {
@@ -45,16 +45,16 @@ nav {
   border-radius: 30%;
 }
 .profile_cont {
-  border-radius: 8%;
+  border-radius: 15%;
   background-color: rgb(0, 0, 0);
   color: white;
-  margin: 10px;
-  padding: 20px;
+  margin: 5px;
+  padding: 10px;
   width: 30%;
   text-align: center;
   transition: transform ease 0.2s;
   opacity: 0.8;
-  margin-top: 0vh;
+  margin-top: 8vh;
 }
 .profile_cont:hover {
   transform: scale(1.2);
