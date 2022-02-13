@@ -24,7 +24,7 @@ class App extends Component {
       <>
         <nav className="navbar">
           <div className="navitems">
-            <h2>LGM - Network</h2>
+            <h2>LGM - Community</h2>
             <button className="fetchbtn" onClick={this.updateState}>
               Get Users
             </button>
